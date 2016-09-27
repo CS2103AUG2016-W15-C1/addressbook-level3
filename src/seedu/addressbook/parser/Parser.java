@@ -85,6 +85,9 @@ public class Parser {
                 
             case VersionCommand.COMMAND_WORD:
                 return new VersionCommand();
+                
+            case PrintTime.COMMAND_WORD:
+                return new PrintTime();
 
             case HelpCommand.COMMAND_WORD: // Fallthrough
             default:
