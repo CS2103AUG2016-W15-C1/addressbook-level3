@@ -2,4 +2,6 @@
 As an advanced user, I wish to use the standard shell commands such as GNU grep,
    GNU sed, pipes to compose my todo or to modify it. -- unlikely
 
-As an user I wish to see the syntax of each individual commands. -- likely
+As a user I wish to see the syntax of each individual commands. -- likely
+
+As a user, I wish to be able to undo certain commands that I have entered by mistake. -- likely
