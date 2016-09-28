@@ -1,0 +1,10 @@
+Evernote
+
+Pros
+1. Allows creation and update of notes over various platforms (even forwarding emails to evernote email account).
+2. Allows a variety of notes to created and classified e.g. business cards, recipes, instruction mannuals, website clippings.
+3. Incorporates itself into different platforms for the ease of search and notifying user e.g. Google search.
+
+Cons
+1. Depends heavily on the internet i.e. user is cut off from the database if the internet is down.
+2. Only 1-level notebooks and stacks are allowed unlike a file system i.e. the ability to organize notes is limited 
