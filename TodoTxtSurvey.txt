@@ -1,0 +1,10 @@
+Todo.txt
+
+Pros
+1. have commandline feature (software available)
+2. can add with any details
+3. simple usage
+
+Cons
+1. not automatically sorted
+2. there may be clashes but will not prompt user
