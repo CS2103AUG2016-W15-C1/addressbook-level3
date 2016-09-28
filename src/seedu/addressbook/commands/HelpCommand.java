@@ -22,7 +22,8 @@ public class HelpCommand extends Command {
             + "\n" + HelpCommand.MESSAGE_USAGE
             + "\n" + ExitCommand.MESSAGE_USAGE
             + "\n" + VersionCommand.MESSAGE_USAGE
-            + "\n" + PrintTime.MESSAGE_USAGE;
+            + "\n" + PrintTime.MESSAGE_USAGE
+            + "\n" + EditCommand.MESSAGE_USAGE;
 
     public HelpCommand() {}
 
