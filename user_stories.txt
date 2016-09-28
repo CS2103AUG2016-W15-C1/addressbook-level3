@@ -5,3 +5,5 @@ As an advanced user, I wish to use the standard shell commands such as GNU grep,
 As a user I wish to see the syntax of each individual commands. -- likely
 
 As a user, I wish to be able to undo certain commands that I have entered by mistake. -- likely
+
+As a user, I can find specific events with whatever keywords that I can remember. -- likely
